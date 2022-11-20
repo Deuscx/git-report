@@ -1,9 +1,8 @@
 {
-  "name": "git-report",
+  "name": "greport",
   "version": "0.0.1",
-  "private": true,
   "packageManager": "pnpm@7.3.0",
-  "author": "Deuscx",
+  "author": "deuscx",
   "license": "MIT",
   "funding": "https://github.com/sponsors/deuscx",
   "homepage": "https://github.com/deuscx/git-report#readme",
